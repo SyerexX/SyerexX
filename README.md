@@ -1,4 +1,4 @@
-----------------------------------------### Hi there 👋, I'm Duy!--------------------------------------------
+----------------------------------------------------------------------### Hi there 👋, I'm Duy!--------------------------------------------
 
 <p align="center">
   <img src="https://github.com/SyerexX/SyerexX/blob/main/Black%20White%20Simple%20Modern%20Neon%20Griddy%20Bold%20Technology%20Pixel%20Electronics%20Store%20Logo.png?raw=true" width="500">
