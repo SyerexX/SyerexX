@@ -26,7 +26,7 @@ I'm a first-year student at Cao Thang Technical College, deeply passionate about
 
 ### 📈 My GitHub Stats
 
-[![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyTheInformationSeeker&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyerexX&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
