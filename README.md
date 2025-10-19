@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋, I'm Duy!
 
-<!--
-**SyerexX/SyerexX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SyerexX/CTF-Writeups/main/path/to/your/favorite/image.png" width="400">
+</p>
 
-Here are some ideas to get you started:
+I'm a first-year student at Cao Thang Technical College, deeply passionate about Cybersecurity and Reverse Engineering. This GitHub profile is where I document my learning journey, one CTF challenge at a time. My goal is to become a security professional and contribute to the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 My Tech Stack & Tools
+
+- **Languages:** C++, Python, Java
+- **Tools:** Git, Docker, Wireshark, Jadx, Ghidra
+- **Platforms:** PicoCTF, TryHackMe
+
+---
+
+### 🌱 I’m currently learning:
+
+- Android Reverse Engineering
+- Network Fundamentals (TCP/IP, OSI Model)
+- Binary Exploitation (Pwn)
+
+---
+
+### 📈 My GitHub Stats
+
+[![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyTheInformationSeeker&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 How to reach me:
+
+- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Blog (Medium):** [Your Blog URL]
