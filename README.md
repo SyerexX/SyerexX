@@ -32,5 +32,5 @@ I'm a first-year student at Cao Thang Technical College, deeply passionate about
 
 ### 📫 How to reach me:
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Blog (Medium):** [Your Blog URL]
+- **LinkedIn:** 
+- **Blog (Medium):**
