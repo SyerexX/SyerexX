@@ -4,7 +4,7 @@ I'm a first-year student at Cao Thang Technical College, deeply passionate about
 
 
 <p align="center">
-    <img src="https://github.com/SyerexX/SyerexX/blob/main/7133646395192-ezgif.com-video-to-gif-converter.gif?raw=true" width="700"> 
+    <img src="https://github.com/SyerexX/SyerexX/blob/main/BlackHole.gif?raw=true" width="1600"> 
     </p>
 ---
 
