@@ -4,7 +4,7 @@ I'm a first-year student at Cao Thang Technical College, deeply passionate about
 
 
 <p align="center">
-    <img src="LINK_GIF_DA_COPY_O_DAY" width="700"> 
+    <img src="[LINK_GIF_DA_COPY_O_DAY](https://github.com/SyerexX/SyerexX/blob/main/7133646395192-ezgif.com-video-to-gif-converter.gif?raw=true)" width="700"> 
     </p>
 ---
 
