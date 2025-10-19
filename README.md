@@ -32,5 +32,5 @@ I'm a first-year student at Cao Thang Technical College, deeply passionate about
 
 ### 📫 How to reach me:
 
-- **LinkedIn:** 
+- **Facebook: https://www.facebook.com/nguyen.tuan.duy.330086** 
 - **Blog (Medium):**
