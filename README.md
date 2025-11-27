@@ -16,8 +16,8 @@ I specialize in **Reverse Engineering** and **Web3 Security**. I don't just writ
 | Category | Technologies |
 | :--- | :--- |
 | **Blockchain** | Solidity, ERC-20, Smart Contract Security, Remix IDE |
-| **Security** | Ghidra, Jadx, Wireshark, BurpSuite |
-| **Core** | C++, Python, Assembly (Learning) |
+| **Security** | Ghidra, Jadx, Wireshark |
+| **Core** | C++, Solidity, Assembly (Learning) |
 | **Platforms** | PicoCTF, Ethernaut, TryHackMe |
 
 ---
