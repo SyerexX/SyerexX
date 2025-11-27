@@ -10,14 +10,15 @@ I'm a first-year student at Cao Thang Technical College, deeply passionate about
 
 ### 🔧 My Tech Stack & Tools
 
-- **Languages:** C++, Python, Java
-- **Tools:** Git, Docker, Wireshark, Jadx, Ghidra
+- **Languages:** C++, Python, Solidity
+- **Tools:** Wireshark, Jadx, Ghidra, BurpSuite, Remix IDE
 - **Platforms:** PicoCTF, TryHackMe
 
 ---
 
 ### 🌱 I’m currently learning:
 
+- Solidity, Smart Contract
 - Android Reverse Engineering
 - Network Fundamentals (TCP/IP, OSI Model)
 - Binary Exploitation (Pwn)
