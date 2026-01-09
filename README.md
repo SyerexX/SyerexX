@@ -58,5 +58,6 @@ I specialize in **Reverse Engineering** and **Web3 Security**. I don't just writ
 
 ### 📫 Connect with me:
 
-* **Facebook:** [Nguyen Tuan Duy](https://www.facebook.com/nguyen.tuan.duy.330086)
+* **Facebook:** [Nguyen Tuan Duy](https://www.facebook.com/VelocitorVN)
 * **Email:** duyhonson655@gmail.com
+* **PiCoCTF:** https://play.picoctf.org/users/SyerexX
